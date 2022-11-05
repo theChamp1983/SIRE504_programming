@@ -1,1 +1,1 @@
-# SIRE504_programming
+# myseq
